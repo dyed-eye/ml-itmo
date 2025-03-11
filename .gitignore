@@ -1,1 +1,4 @@
 _venv/
+None
+extract_notebook.py
+.ipynb_checkpoints/
